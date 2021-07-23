@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on YooB</title>
+    <link>https://www.yoob.uk/tags/</link>
+    <description>Recent content in Tags on YooB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2016-{year}</copyright><atom:link href="https://www.yoob.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Action</title>
+      <link>https://www.yoob.uk/tags/action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arcade</title>
+      <link>https://www.yoob.uk/tags/arcade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/arcade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driving</title>
+      <link>https://www.yoob.uk/tags/driving/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/driving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fighting</title>
+      <link>https://www.yoob.uk/tags/fighting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/fighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplayer</title>
+      <link>https://www.yoob.uk/tags/multiplayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/multiplayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puzzles</title>
+      <link>https://www.yoob.uk/tags/puzzles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/puzzles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shooting</title>
+      <link>https://www.yoob.uk/tags/shooting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/shooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports</title>
+      <link>https://www.yoob.uk/tags/sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yoob.uk/tags/sports/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
